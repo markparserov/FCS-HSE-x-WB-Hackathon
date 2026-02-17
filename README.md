@@ -1,8 +1,7 @@
 # FCS-HSE-x-WB-Hackathon
-================================================================================
-WB HACKATHON — SNEAKERS SALES PREDICTION
-APPROACH SUMMARY
-================================================================================
+
+**WB HACKATHON — SNEAKERS SALES PREDICTION
+APPROACH SUMMARY**
 
 ЗАДАЧА
 ------

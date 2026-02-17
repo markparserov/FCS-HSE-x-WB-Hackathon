@@ -1,0 +1,23 @@
+{
+  "best_global_threshold": 0.22,
+  "use_grouped_threshold": true,
+  "group_thresholds": {
+    "very_rare": 0.18,
+    "rare": 0.67,
+    "medium": 0.24,
+    "frequent": 0.2,
+    "very_frequent": 0.14
+  },
+  "best_wmae_val": 2.579153872398499,
+  "best_wmae_global": 2.589901057659502,
+  "baseline_zeros": 4.194984646878199,
+  "wmae_reg_only": 3.3742749914704877,
+  "val_days": 14,
+  "tuning_days": 14,
+  "n_features": 69,
+  "classifier_preset": "medium_quality",
+  "regressor_preset": "medium_quality",
+  "use_sample_weight": false,
+  "sample_weight_half_life": null,
+  "seed": 42
+}
